@@ -1,0 +1,14 @@
+--- 
+title: "My Dissertation Title"
+author: "John E. Scofield"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: scofieldjohn/dissertation_blogdown
+description: "Here is a short description of my dissertation."
+---
+
+# Prerequisites
+
+This might be the first page. Maybe dedicate this with showing how to navigate through.
